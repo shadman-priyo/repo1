@@ -127,7 +127,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 
 ### Installation Steps
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/Priyo-1158/cse4104-7c-t05-ai-academic-mentor.git
 
@@ -150,7 +150,7 @@ npm install
 
 # 7. Run Frontend App
 npm start
-
+---
 ## 📁 Project Structure
 ```
 cse4104-7c-t05-ai-academic-mentor/
@@ -171,7 +171,7 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 └── README.md         # This file
 
-``` 
+```
 
 ## 📊 Week 5 Progress: UI/UX Design (Completed)
 
