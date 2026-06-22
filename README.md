@@ -112,7 +112,8 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 | Render | Backend hosting |
 | MongoDB Atlas | Database hosting |
 
-```
+---
+
 ## 🚀 Project Setup Instructions
 
 ### Prerequisites
@@ -149,7 +150,6 @@ npm install
 
 # 7. Run Frontend App
 npm start
-
 
 ## 📁 Project Structure
 
