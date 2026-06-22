@@ -152,7 +152,7 @@ npm install
 npm start
 
 ## 📁 Project Structure
-
+```
 cse4104-7c-t05-ai-academic-mentor/
 │
 ├── backend/          # Node.js API (Week 6)
